@@ -78,13 +78,22 @@ Essa estrutura facilita:
 
 > Comparação direta do total gasto em Janeiro e Fevereiro.
 
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/de0c8460-15ef-4df8-83fc-a52292c6e062" />
+
+
 - 🔹 Gráfico 2 — Gastos por Categoria
 
 > Visualização lado a lado dos gastos por categoria em cada mês.
 
+<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/cd5c68d7-e66d-4cd9-85ef-678c7cf82016" />
+
+
 - 🔹 Gráfico 3 — Variação por Categoria
 
 > Gráfico de barras com valores positivos e negativos, facilitando a identificação de aumentos e reduções nos gastos.
+
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/00fce34c-570f-4c86-8e69-5c01a0ffd28e" />
+
 
 ---
 
@@ -110,5 +119,6 @@ Essa estrutura facilita:
 
 ## 👤 Autor
 **Robert Alves** 
+
 
 ## -  Projeto desenvolvido para fins educacionais e construção de portfólio em Data Analytics (nível júnior).
